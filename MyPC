@@ -31,5 +31,7 @@ cinst leagueoflegends
 cinst steam
 cinst spotify
 cinst whatsapp
+cinst teamviewer
+cinst discord.install
 
 Install-WindowsUpdate -AcceptEula
