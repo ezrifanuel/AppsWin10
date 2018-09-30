@@ -1,0 +1,35 @@
+Enable-RemoteDesktop
+Set-WindowsExplorerOptions -enableshowHiddenFilesFoldersDrives -enableshowProtectedOSFiles -enableshowFileExtensions
+cinst flashplayerplugin
+cinst googlechrome
+cinst adblockpluschrome
+cinst adobereader
+cinst jre8 
+cinst flashplayeractivex 
+cinst winrar 
+cinst adobeair
+cinst javaruntime
+cinst silverlight
+cinst adobeshockwaveplayer
+cinst flashplayerppapi
+cinst k-litecodecpackfull
+cinst vcredist2005
+cinst vcredist2008
+cinst vcredist2010
+cinst vcredist2012
+cinst vcredist2013
+cinst vcredist2015
+cinst vcredist2017
+cinst ie11
+cinst adblockplusie
+cinst directx
+cinst avirafreeantivirus
+cinst dotnet4.6.2
+cinst dotnet4.7.1
+cinst adobereader-update
+cinst leagueoflegends
+cinst steam
+cinst spotify
+cinst whatsapp
+
+Install-WindowsUpdate -AcceptEula
